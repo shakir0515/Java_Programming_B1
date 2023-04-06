@@ -15,7 +15,7 @@ public class StringUtil {
     }
 
 /**
- * This method made by Loopcamp Batch#1
+ * This method made by Loop camp Batch#1
  * This method accepts a String parameter and puts in a format
  * Ex:
  *             First letter is upper case and rest is in lower case
