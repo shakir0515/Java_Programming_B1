@@ -38,7 +38,7 @@ public class Picture {
 //        System.out.println("Drawing in this size: " + length);
 //    }
 
-    public static void draw (String str, int size){
+    public static void draw (String str, int size) {
         System.out.println("Just drawing");
-
+    }
 }
