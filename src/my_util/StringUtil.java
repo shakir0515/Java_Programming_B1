@@ -75,18 +75,10 @@ public class StringUtil {
                 checked += str.charAt(i);  // checked = "abcd";
 
                 if (count == 1) {
-                    unique += str.charAt(i);  //uniqiue = "bd";
+                    unique += str.charAt(i);  //unique = "bd";
                 }
-
             }
-
         }
-
         return unique;
-
     }
-
-
-
-
 }
