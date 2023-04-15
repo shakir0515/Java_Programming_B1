@@ -6,7 +6,6 @@ import java.util.Arrays;
 public class RemoveIfExample {
 
     public static void main(String[] args) {
-        ArrayList <Integer>
 
         ArrayList <Integer> original = new ArrayList<>(Arrays.asList(4, 5, 6, 72, 7, 234, 76, 78));
         System.out.println(original);
