@@ -1,8 +1,7 @@
 package day30_b_custom_classes;
 
 public class UsingCoffee {
-    public class UsingCoffee {
-        public static void main(String[] args) {
+        public void main(String[] args) {
 
             Coffee coffee1 = new Coffee();
             System.out.println(coffee1);
@@ -24,4 +23,4 @@ public class UsingCoffee {
 
         }
     }
-}
+
