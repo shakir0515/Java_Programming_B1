@@ -37,7 +37,5 @@ public class ComputerLab {
         System.out.println(comp2.hasScreen);
         System.out.println(comp2.hasBattery);
         System.out.println(comp2.hasMemory);
-
-
     }
 }
