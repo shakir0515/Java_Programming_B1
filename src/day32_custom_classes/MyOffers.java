@@ -1,5 +1,8 @@
 package day32_custom_classes;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class MyOffers {
     public static void main(String[] args) {
         OfferV2 offer1 = new OfferV2("Facebook","California",150000, true, 28);
@@ -9,7 +12,7 @@ public class MyOffers {
         System.out.println(offer2);
 
 
-        ArrayList <String> listOfStr =  new ArrayList<>(Arrays.asList("Hello", "Bye"));
+        ArrayList<String> listOfStr =  new ArrayList<>(Arrays.asList("Hello", "Bye"));
         ArrayList <Integer> listOfInteger =  new ArrayList<>(Arrays.asList(1, 2, 3, 4));
 
 
